@@ -1,0 +1,30 @@
+body {
+    padding-top: 56px; 
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.navbar-brand {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700; 
+    font-size: 39px;
+    text-transform: uppercase;
+    letter-spacing: 1.1px;
+}
+
+
+
+.navbar-nav .nav-link {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700; 
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.1px;
+}
+
+
+footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
+
